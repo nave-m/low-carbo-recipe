@@ -9,6 +9,10 @@ title: トップページ
 
 * [ローストビーフ] (recipes/meat/roast-beef.html)
 
+## 野菜料理
+
+* [切り干し大根の煮物] (recipes/vegetables/boiled-white-oriental-radish.html)
+
 ## デザート
 
 * [ガトーショコラ] (recipes/desserts/chocolate-cake.html)
