@@ -1,3 +1,8 @@
+---
+layout: default
+title: ガトーショコラ
+---
+
 # 材料
 
 - カカオマス 80g

@@ -1,3 +1,8 @@
+---
+layout: default
+title: ココア
+---
+
 # 材料
 
 - お湯 150cc
