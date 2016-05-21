@@ -26,6 +26,10 @@ title: トップページ
 - [ラカント(甘味料)] (seasonings/lakanto.html) 
 - [塩レモン] (seasonings/preserved-lemon.html)
 
+# 調理器具
+
+- [コーヒー用品] (cookwares/coffee.html)
+
 # 参考文献
 
 - [シリコンバレー式 自分を変える最強の食事] (http://www.amazon.co.jp/gp/product/4478039674/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4478039674&linkCode=as2&tag=masatonave-22)
