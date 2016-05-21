@@ -1,3 +1,8 @@
+---
+layout: default
+title: 塩レモン
+---
+
 # 塩レモン
 
 ## 概要
