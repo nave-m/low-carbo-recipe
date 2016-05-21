@@ -21,7 +21,10 @@ title: トップページ
 
 - [ココア] (recipes/drinks/hot-chocolate.html)
 
+# 調味料レビュー
 
+- [ラカント(甘味料)] (seasonings/lakanto.html) 
+- [塩レモン] (seasonings/preserved-lemon.html)
 
 # 参考文献
 
